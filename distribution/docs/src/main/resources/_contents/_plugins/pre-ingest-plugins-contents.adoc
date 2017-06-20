@@ -4,7 +4,7 @@
 
 <<_metacard_validity_marker,Metacard Validity Marker>>:: The Metacard Validity Marker Pre-Ingest plugin modifies the metacards contained in `CreateRequest` s and `UpdateRequest` s.
 
-<<_expiration_date_pre_ingest_plugin,Expiration Date Pre-Ingest Plugin>>:: The Expiration Date plugin updates metacard expiration dates.
+<<_expiration_date_pre_ingest_plugin,Expiration Date Pre-Ingest Plugin>>:: The Expiration Date plugin adds or updates expiration dates for the resource.
 
 <<_identification_plugin,Identification Plugin>>:: The Identification Plugin assigns IDs to a metacard as it is added to the catalog.
 
